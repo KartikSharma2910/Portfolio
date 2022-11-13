@@ -16,7 +16,7 @@ const skills = [
   },
   {
     skill: "TypeScript",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
   {
     skill: "React JS",
@@ -28,11 +28,11 @@ const skills = [
   },
   {
     skill: "Redux Toolkit",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
   {
     skill: "SCSS",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
 ];
 
@@ -51,7 +51,7 @@ const CoreSkills = [
   },
   {
     skill: "Rest API",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
   {
     skill: "Data Structure",
@@ -59,11 +59,11 @@ const CoreSkills = [
   },
   {
     skill: "Algorithms",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
   {
     skill: "Jira",
-    efficency: "Experienced",
+    efficency: "Intermediate",
   },
   {
     skill: "Client Communication",
